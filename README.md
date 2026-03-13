@@ -14,9 +14,6 @@
   <a href="https://codepen.io/Thomas-Brynaert">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
-  <a href="mailto:thomas.brynaert@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -53,7 +50,7 @@ Je suis un **jeune diplômé** passionné par le web et toutes les technologies 
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Mes projets
 
 ### 🎬 [Cinémon — UX/UI Design](https://www.behance.net/gallery/245536377/Cinemon-UIUX-design)
 > Design complet d'un site cinéma : recherche utilisateur, wireframes, maquettes haute fidélité et prototypage interactif.
@@ -99,17 +96,6 @@ Je suis un **jeune diplômé** passionné par le web et toutes les technologies 
 2023  →  Stage chez NLMK, Clabecq (Modélisation 3D mécanique)
 2026  →  Formation UX/UI Design — Cepegra, Charleroi (Figma)
 ```
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-> ✏️ *Remplace `TON-USERNAME` par ton pseudo GitHub*
 
 ---
 
